@@ -11,9 +11,8 @@ Bu proje, frontend geliştirme becerilerimi pekiştirmek ve gerçek hayat senary
 - React
 - TypeScript
 - Redux Toolkit
-- Context API (varsa)
-- Local Storage / API
-- CSS / Tailwind (hangisini kullandıysan)
+- Local Storage
+- Tailwind 
 
 ---
 
